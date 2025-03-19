@@ -10,44 +10,44 @@
 
 ## Features
 ### Authentication
-![](https://github.com/RiyaHablani/Chat-App/blob/master/login.PNG)
-![](https://github.com/RiyaHablani/Chat-App/blob/master/signup.PNG)
+![](https://github.com/RiyaHablani/Food-Delivery-Web-Application/blob/8eca80bcf3c65dd13de9277bc3dcebff21fc2963/Login.png)
+![](https://github.com/RiyaHablani/Food-Delivery-Web-Application/blob/8eca80bcf3c65dd13de9277bc3dcebff21fc2963/SignUp.png)
 
-### Real Time Chatting with Typing indicators
-![](https://github.com/RiyaHablani/Chat-App/blob/master/real-time.PNG)
+### Home Page with Carousel
+![](https://github.com/RiyaHablani/Food-Delivery-Web-Application/blob/8eca80bcf3c65dd13de9277bc3dcebff21fc2963/HomePage.png)
 
-### One to One chat
-![](https://github.com/RiyaHablani/Chat-App/blob/master/mainscreen.PNG)
+### Starter
+![](https://github.com/RiyaHablani/Food-Delivery-Web-Application/blob/8eca80bcf3c65dd13de9277bc3dcebff21fc2963/Starter.png)
 
-### Search Users
-![](https://github.com/RiyaHablani/Chat-App/blob/master/add%20rem.PNG)
+### Pizza
+![](https://github.com/RiyaHablani/Food-Delivery-Web-Application/blob/8eca80bcf3c65dd13de9277bc3dcebff21fc2963/Pizza.png)
 
-### Create Group Chats
-![](https://github.com/RiyaHablani/Chat-App/blob/master/new%20grp.PNG)
+### Biryani
+![](https://github.com/RiyaHablani/Food-Delivery-Web-Application/blob/8eca80bcf3c65dd13de9277bc3dcebff21fc2963/Biryani.png)
 
-### Notifications
-![](https://github.com/RiyaHablani/Chat-App/blob/master/group%20%2B%20notif.PNG)
+### Cart
+![](https://github.com/RiyaHablani/Food-Delivery-Web-Application/blob/8eca80bcf3c65dd13de9277bc3dcebff21fc2963/Cart.png)
 
-### Add or Remove users from group
-![](https://github.com/RiyaHablani/Chat-App/blob/master/new%20grp.PNG)
+### MyOrders
+![](https://github.com/RiyaHablani/Food-Delivery-Web-Application/blob/8eca80bcf3c65dd13de9277bc3dcebff21fc2963/MyOrders.png)
 
 ## Run Locally
-##### Clone the project :
-##### https://github.com/RiyaHablani/Chat-App
+##### Clone the repository :
+##### git clone https://github.com/your-username/Food-Delivery-Web-Application.git
 
-#### Go to the project directory
-###### cd mern-chat-app
+#### Navigate to project directory
+###### cd Food-Delivery-Web-Application
 
 #### Install dependencies
 ##### npm install
 ##### cd frontend/
 ##### npm install
 
-#### Start the server
+#### Start the backend server
+##### cd backend
 ##### npm run start
 
 #### Start the Client
 ##### //Open a new terminal and run:
-##### cd frontend
 ##### npm start
 
